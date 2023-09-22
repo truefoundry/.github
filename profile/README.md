@@ -6,7 +6,7 @@
 
 **[TrueFoundry](https://truefoundry.com) - Powerful developer platform for lean ML teams**
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/truefoundry?style=social)](https://twitter.com/truefoundry) [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/truefoundry)](https://artifacthub.io/packages/search?repo=truefoundry) [![YouTube](https://img.shields.io/badge/truefoundry-8A2BE2?logo=youtube&logoColor=white)](https://www.youtube.com/@truefoundry) [![Slack](https://img.shields.io/badge/Slack-Join-4A154B?style=social)](https://join.slack.com/t/truefoundry/shared_invite/zt-1siovkugy-yJLZF2FPz7HQjNxmKMuZSg) [![Signup](https://img.shields.io/badge/truefoundry-8A2BE2)](https://www.truefoundry.com/register)
+[![Twitter Follow](https://img.shields.io/twitter/follow/truefoundry?style=social)](https://twitter.com/truefoundry) [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/truefoundry)](https://artifacthub.io/packages/search?repo=truefoundry) [![YouTube](https://img.shields.io/badge/truefoundry-ff0800?logo=youtube&logoColor=white)](https://www.youtube.com/@truefoundry) [![Slack](https://img.shields.io/badge/Join-Slack-541A54?logo=slack)](https://join.slack.com/t/truefoundry/shared_invite/zt-1siovkugy-yJLZF2FPz7HQjNxmKMuZSg) [![Signup](https://img.shields.io/badge/truefoundry-07CCFF)](https://www.truefoundry.com/register)
 
 </div>
 
