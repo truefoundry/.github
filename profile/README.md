@@ -1,3 +1,8 @@
+<div align="center" style="text-align: center">
+
+**[TrueFoundry](https://truefoundry.com) - Powerful developer platform for lean ML teams**
+</div>
+
 # Welcome to TrueFoundry 👋  [![Twitter Follow](https://img.shields.io/twitter/follow/truefoundry?style=social)](https://twitter.com/truefoundry) [![Slack](https://img.shields.io/badge/Slack-Join-4A154B?style=social)](https://join.slack.com/t/truefoundry/shared_invite/zt-1siovkugy-yJLZF2FPz7HQjNxmKMuZSg)
 
 [![TrueFoundry Architecture](https://github.com/truefoundry/.github/assets/67226124/9ea1a290-c257-48b8-b395-9b967674ff7b)](http://truefoundry.com)
