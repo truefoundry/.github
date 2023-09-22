@@ -1,7 +1,7 @@
 <div align="center" style="text-align: center">
 
 <p style="text-align: center">
-  <img height="85" align="center" src="profile/assets/TF-dark.svg#gh-light-mode-only" alt="TrueFoundry"><img height="85" align="center" src="profile/assets/TF-white.svg#gh-dark-mode-only" alt="TrueFoundry">
+  <img height="85" align="center" src="https://github.com/truefoundry/.github/blob/main/profile/assets/TF-dark.svg#gh-light-mode-only" alt="TrueFoundry"><img height="85" align="center" src="https://github.com/truefoundry/.github/blob/main/profile/assets/TF-white.svg#gh-dark-mode-only" alt="TrueFoundry">
 </p>
 
 **[TrueFoundry](https://truefoundry.com) - Reduce time to value on Gen AI & ML initiatives**
