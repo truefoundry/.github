@@ -1,7 +1,7 @@
 <div align="center" style="text-align: center">
 
 <p style="text-align: center">
-  <img align="center" src="assets/TF-white.svg#gh-light-mode-only" alt="TrueFoundry"><img align="center" src="assets/TF-light.svg#gh-dark-mode-only" alt="TrueFoundry">
+  <img align="center" src="assets/TF-dark.svg#gh-light-mode-only" alt="TrueFoundry"><img align="center" src="assets/TF-white.svg#gh-dark-mode-only" alt="TrueFoundry">
 </p>
 
 **[TrueFoundry](https://truefoundry.com) - Powerful developer platform for lean ML teams**
