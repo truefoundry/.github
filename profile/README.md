@@ -19,10 +19,14 @@
 TrueFoundry is a cloud-agnostic PaaS running on Kubernetes that standardizes model training & deployments for ML/LLMs using developer-friendly APIs.
 
 🔨 Building
-- [mlfoundry](https://pypi.org/project/mlfoundry/) - Experiment tracking, model registry and artifact logging
-- [servicefoundry](https://pypi.org/project/servicefoundry/) - Orchestration, Automation & Deployment solution for ML/DL jobs (K8s / Cloud / bare-metal)  
+- [TrueFoundry SDK & CLI](https://pypi.org/project/truefoundry/)
+    - Track Experiments, register and versions models, artifacts and prompts
+    - Deploy Services, Jobs, Notebooks, SSH Servers, Helm applications
+    - Build and Deploy DAG workflows
+    - Enable CI/CD for your deployments
+    - Programmatically access TrueFoundry APIs
 - [LLM Playground](https://llm-playground.truefoundry.com) - Play around and compare different Open Source LLMs
-- [DocsGPT](https://docs-qa.truefoundry.com) - Ask questions on your own documents with our RAG playground
+- [Cognita](https://cognita.truefoundry.com) - Ask questions on your own documents with our RAG playground
 - [Model Catalogue](https://www.truefoundry.com/llmops) - Finetune and Deploy models from our Model Catalogue
 - **NEW** :fire: [Free Sign Up](https://www.truefoundry.com/register) - Sign Up for Free and Deploy on your cloud in under 10 minutes
  
