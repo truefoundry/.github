@@ -16,18 +16,14 @@
 
 ## What is TrueFoundry? 👩‍🍳
 
-TrueFoundry is a cloud-agnostic PaaS running on Kubernetes that standardizes model training & deployments for ML/LLMs using developer-friendly APIs.
+TrueFoundry provides a low-latency enterprise AI Gateway with MCP server integrations, guardrails, observability, latency-based routing, model fallback, caching, quota and access control (on-premise, VPC or cloud).
 
-🔨 Building
-- [TrueFoundry SDK & CLI](https://pypi.org/project/truefoundry/)
-    - Track Experiments, register and versions models, artifacts and prompts
-    - Deploy Services, Jobs, Notebooks, SSH Servers, Helm applications
-    - Build and Deploy DAG workflows
-    - Enable CI/CD for your deployments
-    - Programmatically access TrueFoundry APIs
-- [LLM Playground](https://llm-playground.truefoundry.com) - Play around and compare different Open Source LLMs
-- [Cognita](https://cognita.truefoundry.com) - Ask questions on your own documents with our RAG playground
-- [Model Catalogue](https://www.truefoundry.com/llmops) - Finetune and Deploy models from our Model Catalogue
+The company also provides a robust enterprise LLMOps Platform for model serving, inference and efficient finetuning.
+- AI Gateway: OpenAI‑compatible proxy to 1000+ models with observability, governance, rate limits, budgets, guardrails, fallbacks, and load balancing.  
+- LLMOps: One platform for model serving, inference and finetuning
+- ML Engineering: One platform to deploy services, jobs, notebooks, track experiments, manage models, and ship DAG workflows.  
+- Developer‑first: Python/TypeScript SDKs & CLI for programmatic control; Helm charts for self‑hosted installs.
+- Enterprise-grade solutions: Enterprise-friendly developer tooling with SDKs, CLI, and helm for seamless integration across environments.
 - **NEW** :fire: [Free Sign Up](https://www.truefoundry.com/register) - Sign Up for Free and Deploy on your cloud in under 10 minutes
  
 
