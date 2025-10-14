@@ -12,24 +12,30 @@
 
 ---
 
-[![TrueFoundry Architecture](https://github.com/truefoundry/.github/assets/67226124/9ea1a290-c257-48b8-b395-9b967674ff7b)](http://truefoundry.com)
+## Govern, Deploy, Scale & Trace Agentic AI in One Unified Platform
 
-## What is TrueFoundry? 👩‍🍳
+TrueFoundry is a cloud-agnostic PaaS running on Kubernetes that standardizes agentic AI building, deployment and observability using developer-friendly APIs. Plugs and play with your existing stack without vendor lock-in bringing state of the art industry standards.
 
-TrueFoundry is a cloud-agnostic PaaS running on Kubernetes that standardizes model training & deployments for ML/LLMs using developer-friendly APIs.
+![](https://cdn.prod.website-files.com/6291b38507a5238373237679/6888778cd1a3fdeca979f0e2_Group%2039799%20(3).svg)
 
-🔨 Building
+- **NEW** :fire: [Free Sign Up](https://www.truefoundry.com/register) - Sign Up for Free and Deploy on your cloud in under 10 minutes
+- [AI Gateway](https://www.truefoundry.com/ai-gateway) - nterprise-Ready AI Gateway for secure, high-performance LLM access, observability, and orchestration.
+- **NEW** :fire: [MCP Gateway](https://www.truefoundry.com/mcp-gateway) - Secure Access to MCP Servers for Unified Integration
+- **NEW** :fire: [Tracing](https://www.truefoundry.com/tracing) - End-to-End Observability for AI Agents and Applications
+- [Model Serving and Finetuning](https://www.truefoundry.com/model-serving) - Model Serving and Finetuning for Any Model Across Any Infrastructure
 - [TrueFoundry SDK & CLI](https://pypi.org/project/truefoundry/)
     - Track Experiments, register and versions models, artifacts and prompts
     - Deploy Services, Jobs, Notebooks, SSH Servers, Helm applications
     - Build and Deploy DAG workflows
     - Enable CI/CD for your deployments
     - Programmatically access TrueFoundry APIs
-- [LLM Playground](https://llm-playground.truefoundry.com) - Play around and compare different Open Source LLMs
-- [Cognita](https://cognita.truefoundry.com) - Ask questions on your own documents with our RAG playground
-- [Model Catalogue](https://www.truefoundry.com/llmops) - Finetune and Deploy models from our Model Catalogue
-- **NEW** :fire: [Free Sign Up](https://www.truefoundry.com/register) - Sign Up for Free and Deploy on your cloud in under 10 minutes
- 
+- [TrueFoundry Docs](https://docs.truefoundry.com)
+
+### OpenSource
+
+- [KubeElasti](https://github.com/truefoundry/KubeElasti) - Kubernetes-native scale-to-zero with zero traffic loss, no code changes, and direct integration with kubernetes resources
+- [LLM Locust](https://github.com/truefoundry/llm-locust) - LLM Locust combines the simplicity of Locust with deep support for LLM-specific benchmarking
+- [Cognita](https://github.com/truefoundry/cognita) - RAG Framework for Building Grounded Applications
 
 ## Get in touch 💬
 
