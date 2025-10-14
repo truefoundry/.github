@@ -16,7 +16,7 @@
 
 TrueFoundry is a cloud-agnostic PaaS running on Kubernetes that standardizes agentic AI building, deployment and observability using developer-friendly APIs. Plugs and play with your existing stack without vendor lock-in bringing state of the art industry standards.
 
-![](https://cdn.prod.website-files.com/6291b38507a5238373237679/6888778cd1a3fdeca979f0e2_Group%2039799%20(3).svg)
+![](./assets/truefoundry-overview.svg)
 
 - **NEW** :fire: [Free Sign Up](https://www.truefoundry.com/register) - Sign Up for Free and Deploy on your cloud in under 10 minutes
 - [AI Gateway](https://www.truefoundry.com/ai-gateway) - Enterprise-Ready AI Gateway for secure, high-performance proxy to 1000+ models with observability, governance, rate limits, budgets, guardrails, fallbacks, and load balancing. 
