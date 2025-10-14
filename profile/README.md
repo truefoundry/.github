@@ -19,8 +19,8 @@ TrueFoundry is a cloud-agnostic PaaS running on Kubernetes that standardizes age
 ![](https://cdn.prod.website-files.com/6291b38507a5238373237679/6888778cd1a3fdeca979f0e2_Group%2039799%20(3).svg)
 
 - **NEW** :fire: [Free Sign Up](https://www.truefoundry.com/register) - Sign Up for Free and Deploy on your cloud in under 10 minutes
-- [AI Gateway](https://www.truefoundry.com/ai-gateway) - nterprise-Ready AI Gateway for secure, high-performance LLM access, observability, and orchestration.
-- **NEW** :fire: [MCP Gateway](https://www.truefoundry.com/mcp-gateway) - Secure Access to MCP Servers for Unified Integration
+- [AI Gateway](https://www.truefoundry.com/ai-gateway) - Enterprise-Ready AI Gateway for secure, high-performance proxy to 1000+ models with observability, governance, rate limits, budgets, guardrails, fallbacks, and load balancing. 
+- **NEW** :fire: [MCP Gateway](https://www.truefoundry.com/mcp-gateway) - Secure Access to MCP Servers and Agent Orchestration
 - **NEW** :fire: [Tracing](https://www.truefoundry.com/tracing) - End-to-End Observability for AI Agents and Applications
 - [Model Serving and Finetuning](https://www.truefoundry.com/model-serving) - Model Serving and Finetuning for Any Model Across Any Infrastructure
 - [TrueFoundry SDK & CLI](https://pypi.org/project/truefoundry/)
