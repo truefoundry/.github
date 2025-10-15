@@ -19,8 +19,6 @@
 
 ![](./assets/truefoundry-overview.svg)
 
-TrueFoundry provides a low-latency enterprise AI Gateway with MCP server integrations, guardrails, observability, latency-based routing, model fallback, caching, quota and access control (on-premise, VPC or cloud).
-
 - **NEW** :fire: [**Free Sign Up**](https://www.truefoundry.com/register) - Sign Up for Free and Deploy on your cloud in under 10 minutes
 - [**AI Gateway**](https://www.truefoundry.com/ai-gateway) - Enterprise-Ready AI Gateway for secure, high-performance proxy to 1000+ models with observability, governance, rate limits, budgets, guardrails, fallbacks, and load balancing. 
 - **NEW** :fire: [**MCP Gateway**](https://www.truefoundry.com/mcp-gateway) - Secure Access to MCP Servers and Agent Orchestration
